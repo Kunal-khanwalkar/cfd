@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516813945 source:c:\users\mahe\desktop\perpetuity\game.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<mmsystem.h>
+
