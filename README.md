@@ -12,4 +12,4 @@ Members - Manav Agarwal
           Kunal Khanwalkar
           Pratyush Mishra
 
-More to come soon.
+More to come soon, stay tuned!
